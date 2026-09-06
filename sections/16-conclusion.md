@@ -1,0 +1,7 @@
+# 16. CONCLUSION
+
+During Week 3 of my internship, I conducted a review of a hypothetical organization's security policy and identified areas where general requirements needed to be converted into specific and measurable security actions. The main gaps identified were related to MFA, access reviews, patch management, incident escalation, backup testing, data classification, security awareness, third-party security, remote access and policy governance.
+
+Based on the review, I developed an action-oriented checklist that specifies what should be checked, what evidence should be reviewed and when the check should occur. I also performed scenario-based policy validation using common situations such as phishing, unauthorized access, vulnerabilities, backup recovery, sensitive-data sharing and vendor access. In addition, I developed a risk assessment, recommended policy improvements, an implementation roadmap and clearly defined roles and responsibilities.
+
+The Week 2 evaluator feedback helped me understand that a security report should not stop at describing controls; it should also demonstrate specific actions, evidence and validation. I applied this learning throughout the Week 3 review. Overall, this task improved my ability to analyze security policies, identify and prioritize risks, develop measurable recommendations and translate general cybersecurity requirements into practical security controls.
