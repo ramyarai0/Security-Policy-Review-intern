@@ -85,7 +85,6 @@ Security-Policy-Review-intern/
 ├── README.md
 └── .gitignore
 
----
 ## Project Status
 
 **Completed**
